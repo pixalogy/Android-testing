@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\WL02\\Desktop\\android-testing-code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bg\\values-bg.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\WL02\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.0.1.aar\\5c0f87556b30deb4ca55cca64e2688bb\\res\\values-bg\\values.xml",
+                    "source": "C:\\Users\\WL02\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.1.0.aar\\b94b6a3ea3a0551453cfd6fc9b1fcbc5\\res\\values-bg\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\WL02\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\0d96151900d3cc212270feef59ee6a68\\res\\values-bg\\values.xml",
+                    "source": "C:\\Users\\WL02\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\216ce7083e248bac133d7abcbc43a062\\res\\values-bg\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\WL02\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\5a5708d12bbadd1eb5286fadb04bb4db\\res\\values-bg\\values-bg.xml",
+                    "source": "C:\\Users\\WL02\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2ff7d29d2417ea2e872bc8bc954c2cdd\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\WL02\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\8b17dc788c943cc717d59047a7f0b417\\res\\values-bg\\values-bg.xml",
+                    "source": "C:\\Users\\WL02\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\c165f01d89e2c34da983c45cb3fe1712\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
